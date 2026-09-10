@@ -1,1 +1,1 @@
-print("Hi, boss. My self K Dinesh")
+print("God is Great")
